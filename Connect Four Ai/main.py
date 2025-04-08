@@ -65,7 +65,7 @@ def board_to_emoji(board):
     return [[emoji_map[cell] for cell in row] for row in np.flip(board, 0)]
 
 # Streamlit UI Setup
-st.title("🕹️ Connect Four – by SABAHAT")
+st.title("🕹️ Connect Four – by TayyabaAmjad")
 
 # Session state initialization
 if "board" not in st.session_state:
