@@ -44,4 +44,4 @@ if st.button("Rename Images"):
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by SABAHAT**")
+st.markdown("Developed by TayyabaRao**")
