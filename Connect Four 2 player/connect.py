@@ -54,7 +54,7 @@ def check_winner(r, c, piece):
         return False
 
 # Display Title with Muhammad Mudasir's Name
-st.title("🟡🔴 Connect Four (Large Grid 8x10) – by Muhammad Mudasir")
+st.title("🟡🔴 Connect Four (Large Grid 8x10) – by TayyabaAmjadRao")
 st.markdown(f"### 🎯 **Current Turn:** {st.session_state.turn}")
 
 # Display Board
