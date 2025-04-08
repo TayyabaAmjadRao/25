@@ -138,4 +138,4 @@ if st.session_state.game_over:
 
 # Footer
 st.markdown("---")
-st.markdown("### Developed by **SABAAHT** 👨‍💻")
+st.markdown("### Developed by **Tayyaba** 👨‍💻")
