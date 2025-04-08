@@ -83,7 +83,7 @@ if st.session_state.winner:
 st.markdown("---")
 col1, col2 = st.columns([2, 1])
 with col1:
-    st.markdown("👨‍💻 **Developed by SABAHAT** | 🚀 Powered by Streamlit")
+    st.markdown("👨‍💻 **Developed by TayyabaAmjad** | 🚀 Powered by Streamlit")
 with col2:
     if st.button("🔄 Restart Game"):
         try:
