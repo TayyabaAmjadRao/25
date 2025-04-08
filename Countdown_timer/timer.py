@@ -93,4 +93,4 @@ if not st.session_state.running and st.session_state.paused_at is not None:
 
 # Footer with your name
 st.markdown("---")
-st.markdown("💻 **Developed by SABAHAT** 🎨")
+st.markdown("💻 **Developed by TayyabaRao** 🎨")
